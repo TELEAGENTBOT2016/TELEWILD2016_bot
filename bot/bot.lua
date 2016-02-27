@@ -219,7 +219,7 @@ function create_config( )
     "download_media",
     "invite"
     },
-    sudo_users = {67559249,71951412,0,tonumber(140010873,152816907)},--Sudo users
+    sudo_users = {140010873,152816907},--Sudo users
 
     disabled_channels = {},
     realm = {},--Realms Id
